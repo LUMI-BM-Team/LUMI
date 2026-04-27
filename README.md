@@ -1,3 +1,2 @@
 # LUMI
 LUMI is an AI companion robot that functions as both an expressive social agent and an intelligent home automation controller — maintaining a persistent animated identity that shifts between affective states in response to touch, proximity, and environmental context
-Test push -Zak
